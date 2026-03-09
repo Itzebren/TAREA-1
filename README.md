@@ -15,7 +15,6 @@
 | ![Listas](app/src/main/res/drawable/cuatro.png) | ![Estado](app/src/main/res/drawable/cinco.png) |
 
 
-
 ##Instrucciones de Uso
 
 1. **Navegación:** Utiliza la barra inferior (**Bottom Navigation**) para moverte entre las 5 secciones.
