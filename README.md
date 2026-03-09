@@ -8,13 +8,11 @@
 
 | Configuración (TextFields) | Seguridad (Botones) | Ambiente (Selección) |
 |:---:|:---:|:---:|
-| ![Configuración](app/src/main/res/drawable/uno.jpg) | ![Seguridad](app/src/main/res/drawable/fragment_control.png) | ![Ambiente](app/src/main/res/drawable/fragment_ambiente.png) |
+| ![Configuración](app/src/main/res/drawable/uno.png) | ![Seguridad](app/src/main/res/drawable/dos.png) | ![Ambiente](app/src/main/res/drawable/tres.png) |
 
 | Listas (Equipos) | Estado (Información) |
 |:---:|:---:|
-| ![Listas](app/src/main/res/drawable/fragment_lista.png) | ![Estado](app/src/main/res/drawable/fragment_info.png) |
-
----
+| ![Listas](app/src/main/res/drawable/cuatro.png) | ![Estado](app/src/main/res/drawable/cinco.png) |
 
 
 
