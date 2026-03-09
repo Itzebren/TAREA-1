@@ -8,7 +8,7 @@
 
 | Configuración (TextFields) | Seguridad (Botones) | Ambiente (Selección) |
 |:---:|:---:|:---:|
-| ![Configuración](app/src/main/res/drawable/uno.png) | ![Seguridad](app/src/main/res/drawable/dos.png) | ![Ambiente](app/src/main/res/drawable/tres.png) |
+| ![Configuración](Tarea1_APMN\app\src\main\res) | ![Seguridad](app/src/main/res/drawable/dos.png) | ![Ambiente](app/src/main/res/drawable/tres.png) |
 
 | Listas (Equipos) | Estado (Información) |
 |:---:|:---:|
