@@ -8,11 +8,11 @@
 
 | Configuración (TextFields) | Seguridad (Botones) | Ambiente (Selección) |
 |:---:|:---:|:---:|
-| ![Configuración](Tarea1_APMN/app/src/main/res/drawable/uno.png) | ![Seguridad](Tarea1_APMN/app/src/main/res/drawable/dos.png) | ![Ambiente](Tarea1_APMN/app/src/main/res/drawable/tres.png) |
+| ![Configuración](Tarea1_APMN/app/src/main/res/drawable/uno.png) | ![Seguridad](Tarea1_APMN/app/src/main/res/drawable/dos.png) | ![Ambiente](Tarea1_APMN/app/src/main/res/drawable/cinco.png) |
 
 | Listas (Equipos) | Estado (Información) |
 |:---:|:---:|
-| ![Listas](Tarea1_APMN/app/src/main/res/drawable/cuatro.png) | ![Estado](Tarea1_APMN/app/src/main/res/drawable/cinco.png) |
+| ![Listas](Tarea1_APMN/app/src/main/res/drawable/cuatro.png) | ![Estado](Tarea1_APMN/app/src/main/res/drawable/tres.png) |
 
 
 ##Instrucciones de Uso
