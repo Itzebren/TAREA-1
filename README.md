@@ -15,7 +15,7 @@
 | ![Listas](Tarea1_APMN/app/src/main/res/drawable/cuatro.png) | ![Estado](Tarea1_APMN/app/src/main/res/drawable/tres.png) |
 
 
-##Instrucciones de Uso
+# Instrucciones de Uso
 
 1. **Navegación:** Utiliza la barra inferior (**Bottom Navigation**) para moverte entre las 5 secciones.
 2. **Configuración:** En la sección "Red", ingresa el nombre del Hub y contraseña para simular una vinculación.
