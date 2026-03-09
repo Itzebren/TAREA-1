@@ -1,8 +1,22 @@
-# SmartHome Connect 
+# Tarea 1
 
-**SmartHome Connect** es una aplicación  desarrollada en Android Studio para demostrar el uso técnico de **Activities** y **Fragments**. La aplicación utiliza una temática de **Domótica (Casa Inteligente)** para explicar e interactuar con los elementos fundamentales de la interfaz de usuario de Android.
+**SmartHome Connect** es una aplicación  desarrollada en Android Studio para demostrar el uso técnico de **Activities** y **Fragments**. La aplicación utiliza una temática de **Domótica (Casa Inteligente)** 
 
 ---
+
+## Vista Previa de la App
+
+| Configuración (TextFields) | Seguridad (Botones) | Ambiente (Selección) |
+|:---:|:---:|:---:|
+| ![Configuración](app/src/main/res/drawable/uno.jpg) | ![Seguridad](app/src/main/res/drawable/fragment_control.png) | ![Ambiente](app/src/main/res/drawable/fragment_ambiente.png) |
+
+| Listas (Equipos) | Estado (Información) |
+|:---:|:---:|
+| ![Listas](app/src/main/res/drawable/fragment_lista.png) | ![Estado](app/src/main/res/drawable/fragment_info.png) |
+
+---
+
+
 
 ##Instrucciones de Uso
 
